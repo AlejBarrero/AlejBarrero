@@ -1,111 +1,34 @@
-<div align="center">
+![👋 Hola, soy Alejandro Barrero · Técnico en Desarrollo de Aplicaciones Multiplataforma · IA · Big Data · Ciberseguridad](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   alejandro@barrero:~$ whoami                                 ║
-║   > AI · Big Data · Cybersecurity · Telecom                   ║
-║   > Asturias, ES  ·  abierto a remoto                         ║
-║   > status: buscando primer empleo IT  [●  disponible]        ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hola, soy Alejandro Barrero · Técnico en Desarrollo de Aplicaciones Multiplataforma · IA · Big Data · Ciberseguridad
+      </h1>
+    </summary>
+  </ul>
 </div>
 
----
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="alejbarrero" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-## `$ cat perfil.json`
+ **<h3 align="left">Técnico en Desarrollo de Aplicaciones Multiplataforma con formación especializada en Inteligencia Artificial, Big Data y Ciberseguridad. Cuatro títulos que cubren el espectro completo de la informática moderna: desde redes y telecomunicaciones hasta machine learning y seguridad ofensiva.
+Experiencia laboral previa en Reino Unido, donde desarrollé capacidad de trabajo en entornos multiculturales, organización bajo presión y resolución de problemas en tiempo real.</h3>**
 
-```json
-{
-  "nombre":     "Alejandro Barrero",
-  "ubicación":  "Asturias, España",
-  "idiomas":    ["Español (nativo)", "English (fluent — UK experience)"],
-  "formación": {
-    "másteres": [
-      "Inteligencia Artificial & Big Data",
-      "Ciberseguridad"
-    ],
-    "grado_superior": [
-      "Desarrollo de Aplicaciones Multiplataforma (DAM)",
-      "Sistemas de Telecomunicaciones e Informáticos"
-    ],
-    "certificaciones": [
-      "Google — Desarrollo Web: HTML & CSS (1 & 2) · 2022"
-    ]
-  },
-  "disponible": true,
-  "objetivo":   "Primer empleo IT — Dev · Datos · Seguridad · Infraestructura"
-}
-```
+**<h3 align="left">Rapid Fire</h3>**
 
----
+- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
+- 🌱 I'm currently learning: **📚 Exploring Zustand**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
-## `$ ls -la ./stack`
+ **<h3 align="left">Skills</h3>**
 
-```
-drwxr-xr-x  IA & Machine Learning
-│   ├── Python          ████████████████░░░░  
-│   ├── TensorFlow      ██████████████░░░░░░  
-│   ├── Scikit-learn    ██████████████░░░░░░  
-│   └── Pandas          ████████████████████  
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="28" alt="Vue" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="28" alt="Angular" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="28" alt="SQLite" style="margin-right: 4px"></div>
 
-drwxr-xr-x  Big Data & SQL
-│   ├── SQL             ████████████████████  
-│   ├── Apache Spark    ████████████░░░░░░░░  
-│   ├── Hadoop          ██████████░░░░░░░░░░  
-│   └── ETL pipelines   ██████████████░░░░░░  
+ **<h3 align="left">GitHub Stats</h3>**
 
-drwxr-xr-x  Ciberseguridad
-│   ├── Pentesting      ██████████████░░░░░░  
-│   ├── OSINT           ██████████████░░░░░░  
-│   ├── Kali Linux      ████████████████░░░░  
-│   └── Hardening       ████████████░░░░░░░░  
-
-drwxr-xr-x  Desarrollo Web
-│   ├── HTML5 / CSS3    ████████████████████  
-│   ├── JavaScript      ████████████░░░░░░░░  
-│   └── Responsive      ████████████████████  
-
-drwxr-xr-x  Infraestructura
-│   ├── Linux           ████████████████░░░░  
-│   ├── Git             ██████████████░░░░░░  
-│   ├── FTTH / LAN      ████████████████░░░░  
-│   └── TCP/IP          ████████████████░░░░  
-```
-
----
-
-## `$ git log --oneline ./proyectos`
-
-| commit | proyecto | descripción |
-|--------|----------|-------------|
-| `a3f9c1` | [**master-ciberseguridad**](https://github.com/AlejBarrero/master-ciberseguridad) | Análisis de vulnerabilidades, hacking ético, hardening de sistemas |
-| `b72d04` | [**css-grid-layout**](https://github.com/AlejBarrero/css-grid-layout) | Maquetación web responsiva con CSS Grid |
-| `c19e87` | [**css-flexbox-layout**](https://github.com/AlejBarrero/css-flexbox-layout) | Componentes UI adaptativos con Flexbox |
-| `d4a2f3` | [**html5-information-architecture**](https://github.com/AlejBarrero/html5-information-architecture) | Arquitectura semántica, accesibilidad y HTML5 |
-
----
-
-## `$ ping alejandro`
-
-```
-PING alejandro.barrero — 3 packets transmitted
-
-💼  LinkedIn  →  linkedin.com/in/alejbarrero
-🐙  GitHub    →  github.com/AlejBarrero
-✉️  Email     →  [disponible en perfil]
-
-Reply: 64 bytes — tiempo de respuesta: rápido
-```
-
----
-
-<div align="center">
-
-*Doble máster. Base técnica sólida. Muchas ganas de aportar desde el primer día.*
-
-`EOF`
-
-</div>
+<p align="left">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=alejbarrero&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
+</p>
