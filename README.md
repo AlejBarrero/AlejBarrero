@@ -16,13 +16,14 @@
  **<h3 align="left">Técnico en Desarrollo de Aplicaciones Multiplataforma con formación especializada en Inteligencia Artificial, Big Data y Ciberseguridad. También soy Técnico en Sistemas de Telecomunicaciones e Informáticos. Cuatro títulos que cubren el espectro completo de la informática moderna: desde redes y telecomunicaciones hasta machine learning y seguridad ofensiva.
 Experiencia laboral previa en Reino Unido, donde desarrollé capacidad de trabajo en entornos multiculturales, organización bajo presión y resolución de problemas en tiempo real.</h3>**
 
+<!-- 
 **<h3 align="left">Rapid Fire</h3>**
 
-<!-- - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
+ - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
 - 🌱 I'm currently learning: **📚 Exploring Zustand**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!** -->
-
+- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!** 
+-->
 
  **<h3 align="left">Skills</h3>**
 
