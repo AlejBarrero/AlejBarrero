@@ -4,7 +4,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hola, soy Alejandro Barrero · Técnico en Desarrollo de Aplicaciones Multiplataforma · IA · Big Data · Ciberseguridad
+        👋 Hola, soy Alejandro Barrero · Técnico en Desarrollo de Aplicaciones Multiplataforma · IA · Big Data · Ciberseguridad · Sistemas de Telecomunicaciones e Informáticos
       </h1>
     </summary>
   </ul>
