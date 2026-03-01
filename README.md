@@ -13,7 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="alejbarrero" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">Técnico en Desarrollo de Aplicaciones Multiplataforma con formación especializada en Inteligencia Artificial, Big Data y Ciberseguridad. Cuatro títulos que cubren el espectro completo de la informática moderna: desde redes y telecomunicaciones hasta machine learning y seguridad ofensiva.
+ **<h3 align="left">Técnico en Desarrollo de Aplicaciones Multiplataforma con formación especializada en Inteligencia Artificial, Big Data y Ciberseguridad. También soy Técnico en Sistemas de Telecomunicaciones e Informáticos. Cuatro títulos que cubren el espectro completo de la informática moderna: desde redes y telecomunicaciones hasta machine learning y seguridad ofensiva.
 Experiencia laboral previa en Reino Unido, donde desarrollé capacidad de trabajo en entornos multiculturales, organización bajo presión y resolución de problemas en tiempo real.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
